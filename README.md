@@ -17,3 +17,5 @@ Récupération des zones d'arrivées
 - test.ipynb
 - test2.ipynb
 Il s'agit des deux notebooks de prises en main. Il ne sont pas très bien rangés et commentés mais permettre de comprendre comment prendre en main les scripts de MDM et les données
+
+Le dossier présentation regroupe toutes les ressources de la présentation ainsi que le powerpoint compressé en zip.
